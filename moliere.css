@@ -18,3 +18,16 @@
 .ELI{
     color:rgb(6, 95, 43)
 }
+table,td,th{
+    margin: 1px solid black;
+    padding: 2px;
+    border: 3px solid rgb(114, 113, 113);
+    text-align: center;
+    
+}
+td{
+    color: rgb(136, 72, 72);
+}
+th{
+    color:brown;
+}
