@@ -12,6 +12,7 @@
 
 }
 .name:hover{
+    border: solid 2px rgb(91, 53, 109);
     text-shadow: 3px 3px 3px orange;
 }
 .MAR{
@@ -38,4 +39,7 @@ td{
 }
 th{
     color:brown;
+}
+tr:nth-child(even){
+    background-color: rgb(250, 227, 200);
 }
