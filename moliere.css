@@ -43,3 +43,24 @@ th{
 tr:nth-child(even){
     background-color: rgb(250, 227, 200);
 }
+ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 1px;
+    padding: 2px;
+}
+ul.navbar-horizontal li{
+    float: left;
+    color: rgb(68, 64, 64);
+    background-color: rgb(175, 157, 192);
+}
+ul.navbar-horizontal a{
+    display: block;
+    padding: 3px;
+}
+ul.navbar-horizontal a:hover{
+    background-color: rgb(90, 51, 2);
+    color: whitesmoke;
+}
+.icon{
+    float: right;
+}
